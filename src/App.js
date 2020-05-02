@@ -16,12 +16,12 @@ import { faPlusCircle, faCarSide, faSpinner, faCheck, faCheckCircle, faTimesCirc
 
 //import { attachFirebaseToComponent } from '../helpers/helperFunctions.js';
 
-import Administration from './Administration';
-import Homepage from './Homepage';
-import About from './About';
-import Contact from './Contact';
-import Results from './Results';
-import CarPage from './CarPage';
+import Administration from './components/Administration';
+import Homepage from './components/Homepage';
+import About from './components/About';
+import Contact from './components/Contact';
+import Results from './components/Results';
+import CarPage from './components/CarPage';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
