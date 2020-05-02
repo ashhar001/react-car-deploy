@@ -1,0 +1,28 @@
+.car-thumb {
+  border-bottom: 3px solid #add4ff;
+  overflow: hidden;
+
+  .img-wrap {
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .text {
+    text-align: center;
+    padding: .5rem 0;
+
+    a {
+      color: black;
+    }
+
+    .price {
+      color: red;
+      font-size: 1.1rem;
+    }
+  }
+}
